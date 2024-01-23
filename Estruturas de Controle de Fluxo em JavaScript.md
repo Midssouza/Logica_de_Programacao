@@ -39,5 +39,16 @@ Exemplos Práticos:
 
 ![image](https://github.com/Midssouza/Logica_de_Programacao/assets/60756132/afd5c961-20de-4d40-b638-8ece526f07af)
 
+2. Calculando a soma dos primeiros 5 números com um loop while:
+
+![image](https://github.com/Midssouza/Logica_de_Programacao/assets/60756132/209a7c78-8a34-4e93-9cd7-3a0619487ed6)
+
+### Conclusão:
+
+Estruturas de controle de fluxo, como condicionais e loops, são cruciais para a execução condicional e repetitiva de código em JavaScript. Elas permitem que os programas tomem decisões e realizem tarefas repetitivas de maneira eficiente. Ao compreender essas estruturas, os desenvolvedores podem criar código mais dinâmico e adaptável.
+
+
+
+
    
 
